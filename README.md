@@ -19,7 +19,7 @@ ChatGPT has limitations when it comes to hallucination, knowledge cutoff (traini
 RAG pipeline powered by GPT-3.5 Turbo overcomes those limitations by: 
  1. Using Real, Verified Sources (Scientific Journals) that are recent 
  2.  Providing Documented Proof (grounding)
- 3. Augmenting knowledge by providing a domain specific database, instead of the heavy lifting of fine-tuning. 
+ 3. Augmenting knowledge by providing a domain specific database, instead of the heavy lifting of fine-tuning your LLM. 
  4. Cost-effective AI usage (GPT 3.5 Turbo) 
 
 ## Tech Stack Used
